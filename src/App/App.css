@@ -1,0 +1,16 @@
+.topheader {
+  background-color: dodgerblue;
+  font-size: 45px;
+  text-align: center;
+  color: black;
+}
+
+.navbar {
+  background-color: #174c80;
+}
+
+.navbar--item {
+  color: #000;
+}
+
+

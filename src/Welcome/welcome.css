@@ -1,0 +1,19 @@
+.name--section{
+    background-color: dodgerblue;
+    font-size: 65px;
+    text-align: center;
+    color: #000;
+}
+
+.profile--section{
+    background-color: dodgerblue;
+    text-align: center;
+}
+
+.aboutMe--section{
+    background-color: dodgerblue;
+    text-align: center;
+    color: black;
+    font-size: 35px;
+}
+

@@ -1,0 +1,18 @@
+.Education{
+    background: lightskyblue;
+}
+
+.section--header{
+    text-align: center;
+    font-size: 65px;
+}
+
+.school{
+    text-align: center;
+    font-size: 30px;
+}
+
+.padding{
+    height: 20px;
+    width: auto;
+}
