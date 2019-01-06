@@ -1,18 +1,36 @@
 .Education{
-    background: lightskyblue;
+    background: white;
+    box-sizing: content-box;
+    border: 1px black;
 }
 
 .section--header{
     text-align: center;
-    font-size: 65px;
+    font-size: 50px;
+    color: blue;
 }
 
 .school{
     text-align: center;
-    font-size: 30px;
+    font-size: 25px;
 }
 
-.padding{
+.padding-top{
     height: 20px;
     width: auto;
+}
+
+.padding-left{
+    width: 20px;
+    height: auto;
+}
+
+.major{
+    font-size: 25px;
+    text-align: center;
+}
+
+.about-major{
+    text-align: center;
+    font-size: 20px;
 }

@@ -8,6 +8,7 @@ class Welcome extends Component{
         return(
             <div className='welcome'>
                 <div className='profile--section'>
+                    <div className='padding-top'></div>
                     <img src={profile} alt='profile' margin="10px"/>
                 </div>
                 <div className="name--section">
