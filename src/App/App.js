@@ -6,10 +6,10 @@ import Education from '../Education/education';
 class App extends Component {
   render() {
     return (
-      <div className="App">
-          <Welcome/>
-          <Education/>
-      </div>
+        <div className='App'>
+            <Welcome/>
+            <Education/>
+        </div>
     );
   }
 }

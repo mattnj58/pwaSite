@@ -1,12 +1,13 @@
 import React, { Component } from 'react';
 import './education.css';
+import PageHeader from "react-bootstrap/es/PageHeader";
 
 class Education extends Component{
     render() {
         return(
             <div className='Education'>
                 <div className='padding-top'></div>
-                <header className='section--header'> Education </header>
+                <PageHeader className='section--header'> Education </PageHeader>
                 <div className='padding-top'></div>
                 <header className='school'> Lehigh University </header>
                 <div className='padding-top'></div>
