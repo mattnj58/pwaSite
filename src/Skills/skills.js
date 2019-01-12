@@ -6,7 +6,7 @@ class Skills extends Component {
         return(
             <div className='skills'>
                 <p>
-                    Hi there, I have no skills what-so-ever. I'm so bad that I can't even sleep
+                    Hi there, I have no skills what-so-ever. I'm so bad that I can't even sleep. I can't even use css properly
                 </p>
             </div>
         )
