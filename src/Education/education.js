@@ -1,15 +1,15 @@
 import React, { Component } from 'react';
 import './education.css';
-import PageHeader from "react-bootstrap/es/PageHeader";
+//import PageHeader from "react-bootstrap/es/PageHeader";
 import {ListGroup, ListGroupItem, Table, tbody} from "react-bootstrap";
 
 class Education extends Component{
     render() {
         return(
             <div className='Education'>
-                <PageHeader className='section--header'> Education </PageHeader>
+                <h1 className='section--header'> Education </h1>
                 <header className='school'> Lehigh University </header>
-                <ListGroup>
+                <ListGroup className='classes'>
                     <ListGroupItem header="Bachelor of Science in Computer Science and Business">
                         Computer Science and Business is a unique major that is, both, a full Computer Science and a full Business degree.
                         Using my knowledge from both degrees, I am able to apply my computer science skills in a business environment

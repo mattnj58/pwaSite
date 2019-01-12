@@ -1,12 +1,11 @@
 .Education{
-    background: white;
     box-sizing: content-box;
 }
 
 .section--header{
+    background: #F4B400;
     padding-left: 10px;
     text-align: left;
-    font-size: 50px;
     color: blue;
 }
 
@@ -22,14 +21,19 @@
 }
 
 .major{
+    background: #F4B400;
     padding-left: 15px;
     font-size: 20px;
     text-align: left;
 }
 
 .about-major{
+    background: #F4B400;
     padding-left: 40px;
     text-align: left;
     font-size: 15px;
 }
 
+.classes{
+    background-color: #0F9D58;
+}
