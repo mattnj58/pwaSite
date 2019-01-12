@@ -1,12 +1,17 @@
 import React, { Component } from 'react';
-import 'skills.css';
+import './skills.css';
 
 class Skills extends Component {
     render() {
         return(
             <div className='skills'>
-                <div className=''></div>
+                <p>
+                    Hi there, I have no skills what-so-ever. I'm so bad that I can't even sleep
+                </p>
             </div>
         )
     }
 }
+
+
+export default Skills;
