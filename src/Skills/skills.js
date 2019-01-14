@@ -1,33 +1,57 @@
 import React, { Component } from 'react';
 import './skills.css';
-import ReactSvgPieChart from 'react-svg-piechart';
+import { Pie } from "react-chartjs-2";
+import { MDBContainer } from "mdbreact";
 
+/**
+ * TODO: change this to a 3D pie chart
+ * https://www.amcharts.com/demos/3d-pie-chart/?theme=moonrisekingdom
+ */
 class Skills extends Component {
+
+    state={
+        dataPie: {
+            labels: ["Java", "C/C++", "Scala", "Python", "Javascript/Typescript", "Git", "React"],
+            datasets: [
+                {
+                    data: [100, 60, 40, 90, 40, 80, 40],
+                    backgroundColor: [
+                        "#90EE90",
+                        "#46BFBD",
+                        "#FDB45C",
+                        "#949FB1",
+                        "#DB4437",
+                        "#4D5360",
+                        "#ac64ad",
+                    ],
+                    hoverBackgroundColor: [
+                        "#90EE90",
+                        "#46BFBD",
+                        "#FDB45C",
+                        "#949FB1",
+                        "#DB4437",
+                        "#4D5360",
+                        "#ac64ad",
+                    ]
+                }
+            ]
+        }
+    }
 
     render() {
         return(
             <div className='skills--section'>
                 <h1>Skills</h1>
-                <ReactSvgPieChart data={data}
-                                  expandOnHover={true}
-                                  expandSize={1}
-                                  shrinkOnTouchEnd={false}
-                                  strokeColor="#fff"
-                                  strokeLinejoin="round"
-                                  strokeWidth={0}
-                                  viewBoxSize={1}/>
+                <div className='chart'>
+                    <MDBContainer>
+                        <Pie data={this.state.dataPie} options={{ responsive: true }} />
+                    </MDBContainer>
+                </div>
             </div>
         )
     }
 }
 
-const data = [
-    {title: "Data 1", value: 100, color: "#4285F4"},
-    {title: "Data 2", value: 60, color: "purple"},
-    {title: "Data 3", value: 30, color: "#F4B400"},
-    {title: "Data 4", value: 20, color: "#0F9D58"},
-    {title: "Data 5", value: 10, color: "#a1d9ce"},
-]
 
 
 

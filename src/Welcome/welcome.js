@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import './welcome.css';
-import profile from '../profile.jpg'
+import profile from './profile.jpg'
 
 
 class Welcome extends Component{
