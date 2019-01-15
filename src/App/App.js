@@ -3,6 +3,7 @@ import './App.css';
 import Welcome from '../Welcome/welcome';
 import Education from '../Education/education';
 import Skills from '../Skills/skills';
+import Projects from '../Projects/projects';
 
 class App extends Component {
   render() {
@@ -10,6 +11,7 @@ class App extends Component {
         <div className='App'>
             <Welcome/>
             <Skills/>
+            <Projects/>
             <Education/>
         </div>
     );
