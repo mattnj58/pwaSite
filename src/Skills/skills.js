@@ -41,6 +41,7 @@ class Skills extends Component {
     render() {
         return(
             <div className='skills--section'>
+                <div className='padding-top'></div>
                 <h1>Skills</h1>
                 <div className='chart'>
                     <MDBContainer>

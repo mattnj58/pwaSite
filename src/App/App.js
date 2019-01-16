@@ -4,6 +4,7 @@ import Welcome from '../Welcome/welcome';
 import Education from '../Education/education';
 import Skills from '../Skills/skills';
 import Projects from '../Projects/projects';
+import Experiences from '../Experience/experience';
 
 class App extends Component {
   render() {
@@ -13,6 +14,7 @@ class App extends Component {
             <Skills/>
             <Projects/>
             <Education/>
+            <Experiences/>
         </div>
     );
   }

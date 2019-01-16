@@ -7,6 +7,7 @@ class Education extends Component{
     render() {
         return(
             <div className='Education'>
+                <div className='padding-top'></div>
                 <h1 className='section--header'> Education </h1>
                 <header className='school'> Lehigh University </header>
                 <ListGroup className='classes'>
