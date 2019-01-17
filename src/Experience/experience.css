@@ -4,6 +4,11 @@
 
 .experience{
     padding-left: 10px;
-    text-align: left;
+    text-align: center;
     color: blue;
+}
+
+.jobs{
+    padding-left: 15px;
+    text-align: center;
 }

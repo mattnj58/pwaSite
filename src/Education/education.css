@@ -7,13 +7,13 @@
 .section--header{
     background: #F4B400;
     padding-left: 10px;
-    text-align: left;
+    text-align: center;
     color: blue;
 }
 
 .school{
     padding-left: 15px;
-    text-align: left;
+    text-align: center;
     font-size: 25px;
 }
 

@@ -1,6 +1,6 @@
 .projects--section{
-    background-color: #0F9D58;
-    text-align: left;
+    background-color: mediumseagreen;
+    text-align: center;
 }
 
 .about--projects{
@@ -10,7 +10,7 @@
 .title{
     padding-left: 15px;
     padding-bottom: 20px;
-    text-align: left;
+    text-align: center;
     color: blue;
 }
 

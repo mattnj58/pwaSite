@@ -1,6 +1,5 @@
 import React, {Component} from 'react';
 import './projects.css';
-import {Well, Button, ButtonToolbar, Fade} from "react-bootstrap";
 
 class Projects extends Component {
 
@@ -32,7 +31,6 @@ class Projects extends Component {
                     <ul>
                         <li>Worked as part of a 3-person team to design, implement, and test an application to control video sources across several dozen displays</li>
                         <li>Technical Skill: Python, Angular 2, Postgres, TypeScript, Barco CMS </li>
-                        <li></li>
                     </ul>
                 <h3 className='project'> Social Media Application </h3>
                 <ul>
