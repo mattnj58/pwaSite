@@ -20,6 +20,7 @@ class Experience extends Component{
                 <ul>
                     <li>Taught local kinds ranging from 3-8 years old swimming skills, dramatically improving ability to swim and comfort in the water </li>
                 </ul>
+                <div className='padding--bottom'></div>
             </div>
         )
     }

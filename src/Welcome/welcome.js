@@ -16,7 +16,7 @@ class Welcome extends Component{
                 </div>
                 <div className='aboutMe--section'>
                     Hello! Welcome to my site! I'm Matthew Wong, a senior at Lehigh University
-                   <div className='padding--bottom'></div>
+                    <div className='padding--bottom'></div>
                 </div>
             </div>
         )

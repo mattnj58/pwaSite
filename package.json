@@ -29,5 +29,9 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+  "homepage": "https://stark-bayou-66379.herokuapp.com/",
+  "devDependencies": {
+    "gh-pages": "^2.0.1"
+  }
 }

@@ -1,5 +1,5 @@
 .projects--section{
-    background-color: mediumseagreen;
+    background-color: springgreen;
     text-align: center;
 }
 
@@ -8,12 +8,10 @@
 }
 
 .title{
-    padding-left: 15px;
     padding-bottom: 20px;
     text-align: center;
     color: blue;
 }
 
 .project{
-    padding-left: 35px;
 }

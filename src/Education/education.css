@@ -6,13 +6,11 @@
 
 .section--header{
     background: #F4B400;
-    padding-left: 10px;
     text-align: center;
     color: blue;
 }
 
 .school{
-    padding-left: 15px;
     text-align: center;
     font-size: 25px;
 }
@@ -24,14 +22,12 @@
 
 .major{
     background: #F4B400;
-    padding-left: 15px;
     font-size: 20px;
     text-align: left;
 }
 
 .about-major{
     background: #F4B400;
-    padding-left: 40px;
     text-align: left;
     font-size: 15px;
 }

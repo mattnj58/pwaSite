@@ -9,7 +9,7 @@ class Education extends Component{
             <div className='Education'>
                 <div className='padding-top'></div>
                 <h1 className='section--header'> Education </h1>
-                <header className='school'> Lehigh University </header>
+                <header className='school'> <a href='https://www.lehigh.edu' className='school'> Lehigh University </a> </header>
                 <ListGroup className='classes'>
                     <ListGroupItem header="Bachelor of Science in Computer Science and Business">
                         Computer Science and Business is a unique major that is, both, a full Computer Science and a full Business degree.
