@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9f1787ab-cdef-4813-96f6-baa2d21b46b3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Welcome/Resume.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Contact/contact.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Contact/contact.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Contact/contactMe.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Contact/giphy.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Welcome/welcome.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Welcome/welcome.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Welcome/welcome.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Welcome/welcome.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -75,7 +68,7 @@
         <entry file="file://$PROJECT_DIR$/src/Welcome/welcome.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="374">
-              <caret line="32" column="87" selection-start-line="32" selection-start-column="87" selection-end-line="32" selection-end-column="87" />
+              <caret line="32" column="81" selection-start-line="32" selection-start-column="81" selection-end-line="32" selection-end-column="81" />
               <folding>
                 <element signature="e#0#41#0" expanded="true" />
               </folding>
@@ -230,7 +223,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547846745305" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547846795481" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../tic-tac-toe" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -294,7 +287,7 @@
       <workItem from="1547580584794" duration="11019000" />
       <workItem from="1547669813346" duration="5103000" />
       <workItem from="1547760818475" duration="3659000" />
-      <workItem from="1547764550785" duration="9924000" />
+      <workItem from="1547764550785" duration="9975000" />
     </task>
     <task id="LOCAL-00001" summary="random changes lmao">
       <created>1547268741867</created>
@@ -338,11 +331,18 @@
       <option name="project" value="LOCAL" />
       <updated>1547765485478</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="added 3 buttons for social">
+      <created>1547846785032</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1547846785032</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="98532000" />
+    <option name="totallyTimeSpent" value="98583000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="16" y="0" width="1153" height="1039" extended-state="0" />
@@ -424,7 +424,8 @@
     <MESSAGE value="just finished project sections and updated react. Also started my experiences sections. Almost done" />
     <MESSAGE value="finished the experience section" />
     <MESSAGE value="added a contact me section" />
-    <option name="LAST_COMMIT_MESSAGE" value="added a contact me section" />
+    <MESSAGE value="added 3 buttons for social" />
+    <option name="LAST_COMMIT_MESSAGE" value="added 3 buttons for social" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/index.css">
@@ -609,7 +610,7 @@
     <entry file="file://$PROJECT_DIR$/src/Welcome/welcome.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
-          <caret line="32" column="87" selection-start-line="32" selection-start-column="87" selection-end-line="32" selection-end-column="87" />
+          <caret line="32" column="81" selection-start-line="32" selection-start-column="81" selection-end-line="32" selection-end-column="81" />
           <folding>
             <element signature="e#0#41#0" expanded="true" />
           </folding>

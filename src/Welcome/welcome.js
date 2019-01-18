@@ -30,7 +30,7 @@ class Welcome extends Component{
                                 </Button>
                             </a>
                             <div></div>
-                            <a href='/Resume.pdf' class="view-pdf" target="./Resume.pdf">
+                            <a href='/Resume.pdf' class="view-pdf" target="_blank">
                                 <Button variant='extendedFab' color='primary'>
                                     Resume
                                 </Button>
