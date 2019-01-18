@@ -1,8 +1,7 @@
 import React, { Component } from 'react';
 import './welcome.css';
-import profile from './profile.jpg'
-import Button from '@material-ui/core/Button'
-import {Document, Page} from 'react-pdf';
+import profile from './profile.jpg';
+import Button from '@material-ui/core/Button';
 
 class Welcome extends Component{
 
